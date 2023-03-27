@@ -1,0 +1,10 @@
+{
+    "web": {
+        "client_id": "769814922123-423vppq5d7cohah41vu23leccmgd5l81.apps.googleusercontent.com",
+        "project_id": "my-calendar-app-369414",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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"
+    }
+}
